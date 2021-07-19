@@ -1,3 +1,5 @@
+# [DEPRECATED]
+> This repo is deprecated. The new repo is located here: https://github.com/codefresh-support/hybrid-runner-support
 # Creating a Support Package for Codefresh Runner
 
 ## PreReqs
